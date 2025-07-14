@@ -1,0 +1,77 @@
+body{
+  text-align: center;
+  background:  #107C10; 
+  color: white;
+}
+
+.converter{
+  position: relative;
+  top: 150px;
+  padding: 20px;
+  width: 30%;
+  margin: auto;
+  border: 2px solid white;
+  height: 200px;
+  color: white;
+  background: rgb(0, 90, 50);
+
+}
+
+#convert-btn{
+  width: 100%;
+  position: relative;
+  top: 20px;
+  left: 4px;
+  margin: 15px auto;
+  height: 45px;
+  font-size: 1.5rem;
+  font-family: Times New Roman;
+  background: rgb(0, 0, 0);
+  color: white;
+  border: 2px solid gray;
+}
+
+#convert-btn:hover{
+  background: white;
+  color: black;
+}
+
+#number{
+  display: block;
+  position: relative;
+  top: 20px;
+  height: 45px;
+  width: 100%;
+  margin: 15px auto;
+  font-size: 1.5rem;
+}
+
+h1{
+  position: relative;
+  top: 150px;
+}
+
+label{
+  font-size: 1.5rem;
+  position: relative;
+  top: 20px;
+  margin: 15px auto;
+}
+
+img{
+  height: 100px;
+  width: 100px;
+  position: relative ;
+  top: 40px;
+}
+
+#output{
+  position: relative;
+  top: 150px;
+  margin: 20px auto;
+  width: 32.5%;
+  border: 2px solid white;
+  color: white;
+  background: rgb(0, 90, 50);
+  font-size: 1.5rem;
+}
